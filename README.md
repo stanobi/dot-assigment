@@ -1,4 +1,4 @@
-# Technical Challenge (Backend)
+# Technical Challenge
 This is an application used to process user_access_log file into the database and we can filter and display ips by duration and request limit. 
 
 ## Content
